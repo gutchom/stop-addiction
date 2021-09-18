@@ -1,1 +1,1 @@
-# stop-adiction
+# stop-addiction
